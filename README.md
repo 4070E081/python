@@ -1,9 +1,7 @@
 # python
 ## 基本函數
-# !/usr/bin/env python
+!/usr/bin/env python
 是為了防止用戶沒有將python裝在默認的路徑。首先會到env設置裡查找python的路徑，再調用編譯器完成操作。
-
-
 
 ## 算出球表面積與面積
 
